@@ -10,11 +10,19 @@ header {
 }
 .logo {
     margin-right: 65rem;
+    padding: 10px;
 }
 .item-container {
     display: flex;
+    gap: 25px;
 }
-.items {
-    display: flex;
-    justify-content: space-between;
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:active {
+    color: white;
+}
+a:visited {
+    color: white;
 }
