@@ -13,10 +13,12 @@
     font-size: 36px;
     font-weight: bold;
 }
-.header-main-container {
+.header-main {
     background-color: #1F2937;
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
 }
 button {
     background-color: #3882F6;
@@ -52,9 +54,6 @@ button {
 }
 .call-container {
     background-color: #3882F6;
-}
-.last-button {
-    border: 1px white solid;
 }
 header {
     color: white;
