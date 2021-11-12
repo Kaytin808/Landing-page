@@ -5,6 +5,15 @@
     align-items: center;
     height: 100px;
 }
+button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    width: 80px;
+    font-weight: 700;
+}
 .header-second-container {
     background-color: #1F2937;
 }
