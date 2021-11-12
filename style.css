@@ -3,10 +3,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100px;
 }
 header {
     color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px #F9FAF8;
 }
 .logo {
     margin-right: 65rem;
@@ -25,4 +27,7 @@ a:active {
 }
 a:visited {
     color: white;
+}
+a:hover {
+    color: rgba(255, 255, 255, 0.644);
 }
