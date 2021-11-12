@@ -5,10 +5,16 @@
     align-items: center;
     height: 100px;
 }
+.header-second-container {
+    background-color: #1F2937;
+}
+.hero-second-text {
+    font-size: 18px;
+    color: white;
+}
 .hero-main-text {
     font-size: 48px;
     font-style: bold;
-    background-color: #1F2937;
     color: white;
 }
 header {
