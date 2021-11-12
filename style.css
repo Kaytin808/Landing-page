@@ -6,6 +6,13 @@
     width: 300px;
     height: 200px;
 }
+.information-container {
+    background-color: #F9FAF8;
+}
+.information-header {
+    font-size: 36px;
+    font-weight: bold;
+}
 .header-main {
     background-color: #1F2937;
     display: flex;
@@ -31,7 +38,7 @@ button {
 }
 .hero-main-text {
     font-size: 48px;
-    font-style: bold;
+    font-weight: bold;
     color: white;
 }
 header {
