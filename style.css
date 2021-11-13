@@ -97,10 +97,7 @@ flex-direction: column;
     align-content: center;
     display: flex;
 }
-.footer-container {
-    background-color: #1F2937;
-    color: white;
-}
+
 .call-container {
     background-color: #3882F6;
     display: flex;
@@ -153,10 +150,25 @@ justify-content: center;
 .items {
     font-size: 18px;
 }
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+.footer-container {
+    background-color: #1F2937;
+    color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 a:link {
     color: white;
     text-decoration: none;
 }
+
 a:active {
     color: white;
 }
