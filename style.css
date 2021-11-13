@@ -103,7 +103,23 @@ flex-direction: column;
 }
 .call-container {
     background-color: #3882F6;
+    display: flex;
+    height: 10em;
+    width: 80em;
+    border-radius: 10px;
+    margin-top: 9em;
 }
+.call-text {
+    color: white;
+    font-weight: bolder;
+}
+.fourth-section-container {
+    background-color: white;
+height: 460px;
+display: flex;
+justify-content: center;
+}
+
 .logo {
     margin-right: 49rem;
     padding: 10px;
