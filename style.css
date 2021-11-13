@@ -10,12 +10,27 @@
     width: 300px;
     height: 200px;
 }
+.information-text-container {
+    display: flex;
+}
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 30px;
+}
+.information-container-section {
+height: 480px;
+}
 .information-container {
     background-color: #F9FAF8;
+    display: flex;
 }
 .information-header {
     font-size: 36px;
     font-weight: bold;
+    text-align: center;
+    margin-bottom: 65px;
 }
 .header-section {
     background-color: #1F2937;
