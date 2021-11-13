@@ -1,3 +1,6 @@
+*{
+    margin:0px;
+}
 .rainbow {
     width: 400px;
     height: 300px;
@@ -32,6 +35,9 @@ button {
     padding: 5px;
     width: 80px;
     font-weight: 700;
+}
+.signup {
+    width: 100px;
 }
 .header-second-container {
     background-color: #1F2937;
