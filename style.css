@@ -26,11 +26,15 @@ height: 480px;
     background-color: #F9FAF8;
     display: flex;
 }
+.info-text {
+    text-align: center;
+}
 .information-header {
     font-size: 36px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 65px;
+    margin-top: 50px;
 }
 .header-section {
     background-color: #1F2937;
@@ -76,10 +80,22 @@ button {
 }
 .quote-container {
     background-color: #E5E7EB;
+    height: 460px;
+    display: flex;
+    justify-content: center;
+flex-direction: column;
+}
+.by-author {
+    text-align: center;
+    margin-left: 30rem;
+    font-weight: bold;
 }
 .quote {
     font-size: 36px;
     font-style: italic;
+    justify-content: center;
+    align-content: center;
+    display: flex;
 }
 .footer-container {
     background-color: #1F2937;
