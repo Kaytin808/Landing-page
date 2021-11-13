@@ -72,11 +72,15 @@ button {
 }
 .hero-main-text {
     font-size: 48px;
-    font-weight: bold;
     color: white;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+}
+.hero-style {
+    font-weight: bold;
+    color: white;
+    font-size: 48px;
 }
 .quote-container {
     background-color: #E5E7EB;
