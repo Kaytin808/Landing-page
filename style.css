@@ -1,6 +1,6 @@
 .rainbow {
-    width: 500px;
-    height: 400px;;
+    width: 400px;
+    height: 300px;;
 }
 .fire {
     width: 300px;
@@ -13,8 +13,11 @@
     font-size: 36px;
     font-weight: bold;
 }
-.header-main {
+.header-section {
     background-color: #1F2937;
+    height: 560px;
+}
+.header-main {
     display: flex;
     justify-content: center;
     align-items: center;
