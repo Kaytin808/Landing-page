@@ -37,7 +37,7 @@ height: 480px;
     margin-top: 50px;
 }
 .header-section {
-    background-color: #1F2937;
+    background-color: #1f5baf;
     height: 560px;
 }
 .header-main {
@@ -59,7 +59,7 @@ button {
     width: 100px;
 }
 .header-second-container {
-    background-color: #1F2937;
+    background-color: #1f5baf;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -161,7 +161,7 @@ justify-content: center;
     font-style: italic;
 }
 .footer-container {
-    background-color: #1F2937;
+    background-color: #1f5baf;
     color: white;
     height: 80px;
     display: flex;
