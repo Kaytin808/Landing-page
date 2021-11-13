@@ -110,8 +110,28 @@ flex-direction: column;
     margin-top: 9em;
 }
 .call-text {
+    position: absolute;
+right: 56em;
+top: 108em;
+line-height: 2;
+}
+.call-style {
     color: white;
     font-weight: bolder;
+}
+.call-text-2 {
+    font-style: italic;
+    color: white;
+}
+.signup-2 {
+    border: 1px white solid;
+    width: 110px;
+}
+.btn-container {
+    right: -27em;
+position: absolute;
+margin-bottom: 46px;
+top: 20px;
 }
 .fourth-section-container {
     background-color: white;
