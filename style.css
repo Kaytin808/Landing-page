@@ -34,7 +34,7 @@ button {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 36rem;
+    gap: 25rem;
 }
 .hero-second-text {
     font-size: 18px;
@@ -60,7 +60,7 @@ button {
     background-color: #3882F6;
 }
 .logo {
-    margin-right: 65rem;
+    margin-right: 55rem;
     padding: 10px;
     color: white;
     font-size: 24px;
